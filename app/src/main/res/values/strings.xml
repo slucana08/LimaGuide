@@ -1,0 +1,306 @@
+<resources>
+    <string name="app_name">Lima\'s guide</string>
+
+    <!-- Text to fill up landmarks information -->
+    <string name="landmark_plaza_armas_title">Plaza de Armas</string>
+    <string name="landmark_plaza_armas_description">
+        The Plaza de Armas, also known as the Plaza Mayor, sits at the heart of Lima\'s historic center, one of the few remaining parts of the city that still gives a sense of the city’s colonial past. Acknowledged for its historical and cultural significance by being awarded UNESCO World Heritage status in 1988, this is the spot where Francisco Pizarro founded the city in 1535. A colonial fountain serves as the square\'s centerpiece, while some of Lima\'s most important buildings surround the historic plaza.
+    </string>
+    <string name="landmark_plaza_armas_location">Cercado de Lima 15001</string>
+    <string name="landmark_plaza_armas_hours">N/A</string>
+    <string name="landmark_plaza_armas_url">
+        https://www.tripadvisor.com/Attraction_Review-g294316-d311625-Reviews-Plaza_de_Armas_Plaza_Mayor-Lima_Lima_Region.html
+    </string>
+
+    <string name="landmark_circuito_title">Circuito Mágico del Agua</string>
+    <string name="landmark_circuito_description">
+        Lima\'s Parque de la Reserva (Park of the Reserve) dates back to the late 1920s, but in 2007, the Municipality of Lima completed the construction of El Circuito Mágico del Agua, the "Magic Water Circuit." Thirteen fountains, some of which are interactive, provide plenty of entertainment, especially at night with the illuminated shows. Kids will love it, but be prepared to get wet; take a plastic bag or two to keep your cash and camera dry.
+    </string>
+    <string name="landmark_circuito_location">Avenida Petit Thouars cuadra 5. Cercado de Lima.</string>
+    <string name="landmark_circuito_hours">Tuesday to Sunday:\n3:00PM - 10:30PM</string>
+    <string name="landmark_circuito_url">
+        https://www.tripadvisor.com/Attraction_Review-g294316-d1422223-Reviews-Circuito_Magico_del_Agua-Lima_Lima_Region.html
+    </string>
+
+    <string name="landmark_miraflores_title">Miraflores</string>
+    <string name="landmark_miraflores_description">
+        Miraflores is one of Lima\'s most upscale districts, chock full of fancy bars, stylish restaurants, and trendy discotecas. Parque Kennedy is the central point of the neighborhood and perfect for a spot of people watching – or cat admiring. It\'s home to a population of convivial cats, most of which were abandoned and now cared for by a local NGO, so don\’t be surprised if you make more than a few new friends here.
+    </string>
+    <string name="landmark_miraflores_location">Miraflores 15074</string>
+    <string name="landmark_miraflores_hours">N/A</string>
+    <string name="landmark_miraflores_url">
+       https://www.tripadvisor.com/Attraction_Review-g294316-d311718-Reviews-Miraflores-Lima_Lima_Region.html
+    </string>
+
+    <string name="landmark_barranco_title">Barranco</string>
+    <string name="landmark_barranco_description">
+        Head south along the coast from Miraflores, and you\'ll end up in the small district of Barranco. This is Lima\'s bohemian quarter, a place for poets, artists, and the city’s alternative crowd. A daytime stroll will take you past stylish cafes and a wealth of fairs selling handmade, and often fair-trade, food and crafts, most of which are made by local designers or come from around the country. Don\'t miss El Puente de Los Suspiros (The Bridge of Sighs), a quaint wooden bridge located at the top of the stone steps that wind down to the beaches below Barranco.
+    </string>
+    <string name="landmark_barranco_location">Barranco District 15063</string>
+    <string name="landmark_barranco_hours">N/A</string>
+    <string name="landmark_barranco_url">
+       https://www.tripadvisor.com/Attraction_Review-g294316-d548265-Reviews-Barranco-Lima_Lima_Region.html
+    </string>
+
+    <string name="landmark_cerro_cristobal_title">Cerro San Cristobal</string>
+    <string name="landmark_cerro_cristobal_description">
+        One of Lima\'s most prominent landmarks, the hill of Cerro San Cristóbal, rises to the northeast of downtown Lima. If you want a panoramic view of the city, this is where to go. Take a taxi or a tour bus from the Plaza de Armas (walking here isn’t particularly safe). From the top, you can see right across the city and all the way out to sea—at least on a clear day. Thick coastal fog can severely obscure the view, so pick your moment wisely, while a tour in the late afternoon allows for views enhanced by the twinkling lights of the city below.
+    </string>
+    <string name="landmark_cerro_cristobal_location">Cercado de Lima</string>
+    <string name="landmark_cerro_cristobal_hours">N/A</string>
+    <string name="landmark_cerro_cristobal_url">
+       https://www.tripadvisor.com/Attraction_Review-g294316-d6600215-Reviews-Cerro_San_Cristobal-Lima_Lima_Region.html
+    </string>
+
+    <string name="landmark_plaza_martin_title">Plaza San Martin</string>
+    <string name="landmark_plaza_martin_description">
+        The Plaza San Martín is one of the most representative public spaces of the city of Lima, Peru. It is located at the ninth block of Colmena avenue, within the Historic Centre of Lima which was declared a World Heritage Site in 1988 by UNESCO. It is located near the Plaza Mayor of Lima and is connected to it by the Jiron de la Union. Its central monument gives homage to Peru\'s liberator, José de San Martín.
+    </string>
+    <string name="landmark_plaza_martin_location">Lima District 15001</string>
+    <string name="landmark_plaza_martin_hours">N/A</string>
+    <string name="landmark_plaza_martin_url">
+       https://www.tripadvisor.com/Attraction_Review-g294316-d548262-Reviews-Plaza_San_Martin-Lima_Lima_Region.html
+    </string>
+
+    <!-- Text to fill up restaurants information -->
+    <string name="restaurant_central_title">Central</string>
+    <string name="restaurant_central_description">
+        Currently the undisputed brightest star in Peru\'s culinary universe, Central has been repeatedly ranked Latin America\'s best restaurant.Chef Virgilio Martínez\'s philosophy reclaims the pre-Colombian tradition of barter and exchange between communities from the coast, mountains and rainforest, featuring ingredients from altitudes as high as 12,000 feet to below sea level. From the high Andes, Martínez will serve guests a selection of Peruvian potatoes garnished with muña, a kind of Andean mint, and alpaca heart shavings.At the other end of the altitudinal spectrum, who knew that scallops, spiced up with Peruvian rocoto peppers, could be turned into a crust with a meringue-like texture?
+    </string>
+    <string name="restaurant_central_location">Av. Pedro de Osma 301\nBarranco</string>
+    <string name="restaurant_central_phone">+51 1 2428515</string>
+    <string name="restaurant_central_hours">Monday to Saturday:\n12:45 - 1:30PM / 7:45 - 8:30PM</string>
+    <string name="restaurant_central_url">
+       https://www.tripadvisor.com/Restaurant_Review-g294316-d1798176-Reviews-Central_Restaurante-Lima_Lima_Region.html
+    </string>
+
+    <string name="restaurant_maido_title">Maido</string>
+    <string name="restaurant_maido_description">
+        The name means \"welcome\" in Japanese and this restaurant from chef Mitsuharu Tsumura is the apogee of Japanese-Peruvian, aka "Nikkei" cuisine. This fusion dates back more than a century thanks to the Andean nation\'s large community of immigrants from the Land of the Rising Sun. Maido is, according to the 2017 San Pellegrino rankings, not just Latin America\'s second best restaurant but also number eight in the world. The menu runs from conventionally exquisite Japanese sushi classics to original creations such as cau cau, a pre-Colombian potato stew, but served with sea snails.
+    </string>
+    <string name="restaurant_maido_location">Calle San Martin 399\nMiraflores</string>
+    <string name="restaurant_maido_phone">+51 1 3135100</string>
+    <string name="restaurant_maido_hours">Monday to Saturday:\n7:00AM - 10:00PM</string>
+    <string name="restaurant_maido_url">
+       https://www.tripadvisor.com/Restaurant_Review-g294316-d1759465-Reviews-Maido-Lima_Lima_Region.html
+    </string>
+
+    <string name="restaurant_malabar_title">Malabar</string>
+    <string name="restaurant_malabar_description">
+       This is the highly rated locale of Pedro Miguel Schiaffino, a chef particularly known for his use of exotic ingredients from the Amazon.Malabar is also home to a bar that\'s been ranked in the world\'s top 10, should you be in the mood for an aperitif before your meal. These days Schiaffino, like Osterling, is a little more focused on satisfying his customers than garnering critical plaudits, offering "casual cuisine, with a simple spirit and the warmth of home."In practice that doesn\'t, however, mean anything less than spectacularly original fare, from smoked paiche, the largest fish in the Amazon, served with black chili sauce and yucca puree, to grilled octopus with lima beans and parmesan shavings.
+    </string>
+    <string name="restaurant_malabar_location">Av. Camino Real 101\nSan Isidro</string>
+    <string name="restaurant_malabar_phone">+51 1 4405200</string>
+    <string name="restaurant_malabar_hours">Monday to Friday:\n12:30 - 4:00PM / 7:00 – 11:30PM\nSaturday:\n12:30 - 4:00PM / 7:30PM - 12:00AM </string>
+    <string name="restaurant_malabar_url">
+       https://www.tripadvisor.com/Restaurant_Review-g294316-d789641-Reviews-Malabar-Lima_Lima_Region.html
+    </string>
+
+    <string name="restaurant_lamar_title">La Mar</string>
+    <string name="restaurant_lamar_description">
+       If Peru has a national dish, then it\'s ceviche, the fresh seafood salad marinated in lemon juice and sold in specialist restaurants, cevicherias, even in the Andes. No cevicheria is more famous than La Mar -- the name translates to "the high seas" -- the second flagship eatery of Gastón Acurio. Like all cevicherias, La Mar doesn\'t just offer a variety of ceviches, but also numerous other versions of Peru\'s many original fish and shellfish classics. A bottle of white wine is a perfect accompaniment but the classic Peruvian way to eat ceviche is washed down with a local, very cold lager.
+    </string>
+    <string name="restaurant_lamar_location">Av Mariscal La Mar 770\nMiraflores</string>
+    <string name="restaurant_lamar_phone">+51 1 4213365</string>
+    <string name="restaurant_lamar_hours">Monday to Thursday:\n12:00 - 5:00PM\nFriday to Sunday:\n12:00 - 5:30PM </string>
+    <string name="restaurant_lamar_url">
+        https://www.tripadvisor.com/Restaurant_Review-g294316-d779051-Reviews-La_Mar-Lima_Lima_Region.html
+    </string>
+
+    <string name="restaurant_picanteria_title">La Picantería</string>
+    <string name="restaurant_picanteria_description">
+       Another of Lima\'s highest-ranked restaurants, this one offers cuisine from Arequipa, Peru\'s picturesque third city nestled in the southern Andean foothills. There, "picanterias," which typically only open for lunch, are a way of life, with dishes ranging from seafood to the decidedly meaty, especially chicharron, aka fried pork, a Peruvian classic. Dishes to look out for include the beef ribs, a crab parihuela or stew, and the rocoto en chupe, a soup a little reminiscent of a chowder using one of Peru\'s hottest native chili peppers.
+    </string>
+    <string name="restaurant_picanteria_location">Sta Rosa 388\nSurquillo</string>
+    <string name="restaurant_picanteria_phone">+51 1 2416676</string>
+    <string name="restaurant_picanteria_hours">Monday to Saturday:\n10:30AM - 5:30PM </string>
+    <string name="restaurant_picanteria_url">
+        https://www.tripadvisor.com/Restaurant_Review-g294316-d3781380-Reviews-La_Picanteria-Lima_Lima_Region.html
+    </string>
+
+    <string name="restaurant_titi_title">Chifa Titi</string>
+    <string name="restaurant_titi_description">
+       Part of the growing chifa scene in San Borja, a sprawling suburb just outside of better-known San Isidro, Titi looks beyond standard Cantonese cuisine that most of the city\'s Chinese restaurants adhere to. Skip the basic chifa dishes that you find everywhere and order the pigeon or the conchas tau si, scallops in a black bean sauce.
+    </string>
+    <string name="restaurant_titi_location">Avenida Javier Prado Este 1212\nSan Isidro</string>
+    <string name="restaurant_titi_phone">+51 1 2248189</string>
+    <string name="restaurant_titi_hours">Tuesday to Sunday:\n1:00 - 3:00PM / 7:00 - 10:00PM </string>
+    <string name="restaurant_titi_url">
+        https://www.tripadvisor.com/Restaurant_Review-g294316-d3721503-Reviews-Chifa_Titi-Lima_Lima_Region.html
+    </string>
+
+    <string name="restaurant_chinito_title">El Chinito</string>
+    <string name="restaurant_chinito_description">
+       This iconic sangucheria in the chaotic center of Lima has been around for more than half a century, serving highly addictive chicharrón or chanchito asado sandwiches, made with fried or roasted pork in Chinese seasonings. El Chinito has recently begun adding branches around town, which can deliver to hotels in Miraflores.
+    </string>
+    <string name="restaurant_chinito_location">Jirón Chancay 894\nCercado de Lima</string>
+    <string name="restaurant_chinito_phone">+51 1 4232197</string>
+    <string name="restaurant_chinito_hours">Monday to Saturday:\n8:00AM - 9:00PM\nSunday:\n8:00AM - 1:00PM</string>
+    <string name="restaurant_chinito_url">
+        https://www.tripadvisor.com/Restaurant_Review-g294316-d3308283-Reviews-El_Chinito-Lima_Lima_Region.html
+    </string>
+
+    <string name="restaurant_lucha_title">La Lucha</string>
+    <string name="restaurant_lucha_description">
+       Lima has a strong sandwich culture and La Lucha, with a location right on Parque Kennedy, still stands out. It\'s more corporate now than it used to be, but its chicharrón, pavo (turkey), and other sanguches are consistently good. Pair your sandwich with a side of fries made with native huayro potatoes and a glass of granadilla juice.
+    </string>
+    <string name="restaurant_lucha_location">Diagonal 139\nMiraflores</string>
+    <string name="restaurant_lucha_phone">+51 1 2415953</string>
+    <string name="restaurant_lucha_hours">Monday to Sunday:\n8:00AM - 12:00AM</string>
+    <string name="restaurant_lucha_url">
+        https://www.tripadvisor.com/Restaurant_Review-g294316-d2708680-Reviews-La_Lucha_Sangucheria_Criolla-Lima_Lima_Region.html
+    </string>
+
+    <string name="restaurant_toke_title">Al toke pez</string>
+    <string name="restaurant_toke_description">
+       This five-seat lunch counter in a strip mall on a busy avenue in the middle class suburb of Surquillo is evidence of just how widespread Lima\'s food scene has become. Toshi Matsufuji, the son of legendary Nikkei chef Dario Matsufuji, fries robalo cheeks in a flaming wok behind the counter, and serves styrofoam cups of leche de tigre with pieces of fried calamari.
+    </string>
+    <string name="restaurant_toke_location">Av. Angamos Este 886\nSurquillo</string>
+    <string name="restaurant_toke_phone">+51 961249702</string>
+    <string name="restaurant_toke_hours">Monday to Sunday:\n11:30AM - 3:30PM</string>
+    <string name="restaurant_toke_url">
+        https://www.tripadvisor.com/Restaurant_Review-g294316-d7109611-Reviews-Al_Toke_Pez-Lima_Lima_Region.html
+    </string>
+
+    <!-- Text to fill up museums information -->
+    <string name="museum_larco_title">Museo Larco</string>
+    <string name="museum_larco_description">
+       Peruse an 18th century vice-royal building looking at pre-Columbian art and artifacts. The museum holds galleries that give a chronological overview of thousands of years of pre-Columbian Peruvian history. The museum is famous for its collection of erotic pre-Columbian pottery and pre-Columbian jewelry. It also has a gift shop where you can buy quality reproductions of the art seen here.
+    </string>
+    <string name="museum_larco_location">Av. Simón Bolivar 1515\nPueblo Libre</string>
+    <string name="museum_larco_phone">+51 1 4611312</string>
+    <string name="museum_larco_hours">Monday to Saturday:\n9:00AM - 10:00PM</string>
+    <string name="museum_larco_url">
+        https://www.tripadvisor.com/Attraction_Review-g294316-d311651-Reviews-Museo_Larco-Lima_Lima_Region.html
+    </string>
+
+    <string name="museum_pisco_title">Museo del Pisco</string>
+    <string name="museum_pisco_description">
+       There\'s nothing typical about this museum, except that it has the word in its name. It\'s not quiet, there are no glass cases displaying ancient artifacts, and it\'s not officially recognized by the city as a museum. Nonetheless, it is a fun place to go and learn something new. One part how-to tutorials and one part bar. Museo Pisco offers everything from bartending classes on how to make Peru\'s favorite pisco cocktails to the history of this popular spirit. Enjoy everything Museo Pisco has to offer while drinking a pisco sour.
+    </string>
+    <string name="museum_pisco_location">Jirón Carabaya 193\nCercado de Lima</string>
+    <string name="museum_pisco_phone">+51 963620883</string>
+    <string name="museum_pisco_hours">Monday to Thursday:\n11:00AM - 10:00PM\nFriday to Saturday:\n11:00AM - 12:00AM\nSunday:\n11:00AM - 7:00PM</string>
+    <string name="museum_pisco_url">
+        https://www.tripadvisor.com/Restaurant_Review-g294316-d10750233-Reviews-Museo_del_Pisco-Lima_Lima_Region.html
+    </string>
+
+    <string name="museum_mali_title">Museo de Arte de Lima (MALI)</string>
+    <string name="museum_mali_description">
+       This museum has Lima\'s largest collection of photography, paintings, pottery, decorations and artifacts. In addition to pre-Columbian and Colonial art, MALI also has a large collection of contemporary Peruvian art. With multiple areas to experience, plan to spend more than a couple of hours exploring the entirety of this museum.
+    </string>
+    <string name="museum_mali_location">Parque de la Exposición, Paseo Colon 125\nCercado de Lima</string>
+    <string name="museum_mali_phone">+51 1 2040000</string>
+    <string name="museum_mali_hours">Tuesday to Friday:\n10:00AM - 7:00PM\nSaturday:\n10:00AM - 5:00PM\nSunday:\n10:00AM - 7:00PM</string>
+    <string name="museum_mali_url">
+        https://www.tripadvisor.com/Attraction_Review-g294316-d548258-Reviews-Museo_de_Arte_de_Lima_MALI-Lima_Lima_Region.html
+    </string>
+
+    <string name="museum_catacombs_title">Catacombs of San Francisco</string>
+    <string name="museum_catacombs_description">
+       Underneath the Monastery of San Francisco in downtown Lima there are catacombs that are estimated to contain between 25,000 and 70,000 human remains dating back to the eighteenth century. The colonial church itself is a fascinating example of colonial architecture, and housed in its library are approximately 20,000 antique texts. But the real attraction is the underground cemetery with its low vaulted ceilings and brick and limestone walls.
+    </string>
+    <string name="museum_catacombs_location">Jr. Ancash - Barrios Altos, 1611\nCercado de Lima</string>
+    <string name="museum_catacombs_phone">+51 1 3280241</string>
+    <string name="museum_catacombs_hours">Monday to Saturday:\n9:00AM - 8:15PM</string>
+    <string name="museum_catacombs_url">
+        https://www.tripadvisor.com/Attraction_Review-g294316-d311638-Reviews-Iglesia_y_Convento_de_San_Francisco-Lima_Lima_Region.html
+    </string>
+
+    <string name="museum_presbitero_title">Presbitero Maestro</string>
+    <string name="museum_presbitero_description">
+       Filled with hundreds of mausoleums, monuments, and elaborate sculptures, the Museo Cementerio Presbítero Matías Maestro is a labyrinth of Peruvian history. This cemetery is the final resting place for many very celebrated figures, including Augusto B. Leguía, José de la Riva Agüero, and Antonio Raimondi, so it is a must see for anyone with a keen interest in Peruvian history. You can take a guided tour of the cemetery during the day, and on certain days of the month you have the option of a nighttime tour.
+    </string>
+    <string name="museum_presbitero_location">Jirón Lampa and Ancash\nCercado de Lima</string>
+    <string name="museum_presbitero_phone">+51 1 4267377</string>
+    <string name="museum_presbitero_hours">Monday to Friday:\n8:00AM - 7:00PM\nSaturday to Sunday:\n8:00AM - 6:00PM</string>
+    <string name="museum_presbitero_url">
+        https://www.tripadvisor.com/Attraction_Review-g294316-d1837701-Reviews-Presbitero_Maestro-Lima_Lima_Region.html
+    </string>
+
+    <string name="museum_history_title">Archaeology, Anthropology and History Museum</string>
+    <string name="museum_history_description">
+       The oldest museum in Peru also includes the house where Simon Bolivar and Jose de San Martin lived. Located in a colonial building on Plaza Bolivar, the museum contains an impressive collection of textiles, figurines, stone tools, ceramics and metalwork dating from throughout the history of human occupation in Peru. There are also fine pieces of artwork from the Cusqueña School.
+    </string>
+    <string name="museum_history_location">Plaza Bolivar\nPueblo Libre</string>
+    <string name="museum_history_phone">+51 1 3215630</string>
+    <string name="museum_history_hours">Monday to Sunday:\n8:45AM - 5:00PM</string>
+    <string name="museum_history_url">
+        https://www.tripadvisor.com/Attraction_Review-g294316-d316228-Reviews-National_Museum_of_Archaeology_Anthropology_and_History-Lima_Lima_Region.html
+    </string>
+
+    <!-- Text to fill up bars information -->
+    <string name="bar_ayahuasca_title">Ayahuasca</string>
+    <string name="bar_ayahuasca_description">
+       Ayahuasca is an old colonial-style mansion turned into a carnival-fun-house of a bar. The mansion is broken up into several rooms, upstairs and down, which makes wandering around a large part of its charm. Drink a cocktail in its darkly lit rooms on the first floor, or enjoy the commotion of the second storey rooms and patio. Whichever you choose, no-one should leave without trying one of the craft cocktails from its extensive, almost overwhelming, drink list.
+    </string>
+    <string name="bar_ayahuasca_location">Av San Martin 130\nBarranco</string>
+    <string name="bar_ayahuasca_phone">+51 1 2476751</string>
+    <string name="bar_ayahuasca_hours">Monday to Saturday:\n8:00PM - 3:00AM</string>
+    <string name="bar_ayahuasca_url">
+        https://www.tripadvisor.com/Restaurant_Review-g294316-d1977571-Reviews-Ayahuasca_Resto_Bar-Lima_Lima_Region.html
+    </string>
+
+    <string name="bar_piselli_title">Bodega Piselli</string>
+    <string name="bar_piselli_description">
+       This bar is hands down the best bang for your buck. Located behind la plaza in Barranco, it offers a laid back vibe with a classic feel. This is a bar where you’ll mingle with Peruvians after a day\'s work and talk – yes, just talk. The bar has no music nor wifi. This spot is a locals\' secret and the perfect place to find a pisco sour for a decent price.
+    </string>
+    <string name="bar_piselli_location">28 De Julio 297\nBarranco</string>
+    <string name="bar_piselli_phone">+51 1 2526750</string>
+    <string name="bar_piselli_hours">Monday to Tuesday:\n10:00AM - 11:00PM\nThursday to Saturday:\n10:00AM - 3:00AM</string>
+    <string name="bar_piselli_url">
+       https://www.tripadvisor.com/Restaurant_Review-g294316-d6208323-Reviews-Bar_Piselli_1915-Lima_Lima_Region.html
+    </string>
+
+    <string name="bar_express_title">Orient Express Bar</string>
+    <string name="bar_express_description">
+       With an interior designed to resemble an old train car, it\'s hard to beat the atmosphere of this small bar. Take a date here to have one of their pisco sours – some of the best in the city. You won\'t forget an evening in this bar.
+    </string>
+    <string name="bar_express_location">Interior E4 Pasaje El Suche\nCalle Alcanfores 463\nMiraflores</string>
+    <string name="bar_express_phone">+51 931966797</string>
+    <string name="bar_express_hours">Monday to Thursday:\n7:00PM - 11:00PM\nFriday to Saturday:\n7:00PM - 3:00AM</string>
+    <string name="bar_express_url">
+       https://www.tripadvisor.com/Restaurant_Review-g294316-d6541823-Reviews-Orient_Express-Lima_Lima_Region.html
+    </string>
+
+    <string name="bar_company_title">Barranco Beer Company</string>
+    <string name="bar_company_description">
+       Barranco Beer Company offers a decent selection of craft beers, all brewed in-house. It has the feeling of a small craft brewery/sports bar from the States: good beer and plenty of TVs. If there happens to be a big game on, head here for the action. You\'ll find a lively atmosphere and good food to pair with one of their outstanding craft beers.
+    </string>
+    <string name="bar_company_location">Av. Almte. Miguel Grau 308\nBarranco</string>
+    <string name="bar_company_phone">+51 1 2476211</string>
+    <string name="bar_company_hours">Sunday to Wednesday:\n12:00PM - 12:00AM\nThursday to Saturday:\n12:00PM - 3:00AM</string>
+    <string name="bar_company_url">
+       https://www.tripadvisor.com/Restaurant_Review-g294316-d6131391-Reviews-Barranco_Beer_Company-Lima_Lima_Region.html
+    </string>
+
+    <string name="bar_bolivar_title">Gran Hotel Bolivar</string>
+    <string name="bar_bolivar_description">
+       If not for the history – Ernest Hemingway and Walt Disney, among many others, have graced the halls of this hotel – then you must go for the pisco. The bartenders at Gran Hotel Bolivar serve a famous drink known as the Pisco Cathedral, made with 5 ounces (150 ml) of pisco. Besides the jumbo option, the bartenders also make some of the best pisco sours in the city. Come here for the history and the pisco sour – it\'s all you\'ll need.
+    </string>
+    <string name="bar_bolivar_location">Jirón de la Unión 958\nCercado de Lima</string>
+    <string name="bar_bolivar_phone">+51 1 6197171</string>
+    <string name="bar_bolivar_hours">N/A</string>
+    <string name="bar_bolivar_url">
+       https://www.tripadvisor.com/Hotel_Review-g294316-d316158-Reviews-Gran_Hotel_Bolivar-Lima_Lima_Region.html
+    </string>
+
+    <!-- Text for cost in recyclerView Item -->
+    <string name="cost_low">$</string>
+    <string name="cost_medium">$$</string>
+    <string name="cost_high">$$$</string>
+
+    <!-- Text for buttons in recyclerView Item -->
+    <string name="map">Map</string>
+    <string name="reviews">Reviews</string>
+
+    <!-- Titles for navigation tabs -->
+    <string name="landmarks">landmarks</string>
+    <string name="restaurants">restaurants</string>
+    <string name="museums">museums</string>
+    <string name="bars">bars</string>
+
+    <!-- Text for phone field when there is no phone provided -->
+    <string name="no_phone">No Phone</string>
+
+</resources>
